@@ -56,6 +56,7 @@ En el título escribe: `Reto final: Tu Nombre`.
 > ejecuta `git switch main`, `git pull`, `git switch agrega-tu-nombre` y
 > `git merge main`. Resuelve el conflicto como en el
 > [módulo 04](../04-ramas/) y vuelve a hacer `git push`.
+> Reto final: Paulina Michelle Valdez Pardo
 
 ## Lo que demuestras con este reto
 
